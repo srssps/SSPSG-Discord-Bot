@@ -15,3 +15,10 @@
 - [ ] Služba
     - [ ] Příkaz
     - [ ] Interval
+
+<br/>
+<p align="center">
+    <a href="https://discord.com/api/oauth2/authorize?client_id=1080575281091326063&permissions=274877908992&scope=bot%20applications.commands">
+        <img src="design/banner/add.svg" alt="Přidat"/>
+    </a>
+</p>
