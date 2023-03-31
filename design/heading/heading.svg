@@ -1,0 +1,9 @@
+<svg width="111.58" height="39.305" version="1.1" viewBox="0 0 29.522 10.399" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="-8.4945" x2="47.697" y1="-4.3825" y2="7.9375" gradientTransform="matrix(1.6033 0 0 1.6033 .089128 -1.9656)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#59b9ff" offset="0"/>
+   <stop stop-color="#002a7f" offset="1"/>
+  </linearGradient>
+ </defs>
+ <text x="-0.4632436" y="8.6399679" fill="url(#a)" font-family="'TT Polls'" font-size="9.2604px" font-weight="300" stroke-width="1.0623" text-align="center" text-anchor="middle" style="line-height:1" xml:space="preserve"><tspan x="-0.4632436" y="8.6399679" fill="url(#a)" font-family="'TT Polls'" font-size="9.2604px" font-weight="bold" stroke-width="1.0623" text-align="start" text-anchor="start">Nadpis</tspan></text>
+</svg>
