@@ -1,0 +1,9 @@
+[package]
+name = "sspsg-discord-bot"
+version = "0.1.0"
+edition = "2021"
+description = "Discord Bot s informacemi Smíchovské střední průmyslové a gymnázia"
+repository = "https://github.com/SSPSG/SSPSG-Discord-Bot"
+license = "MIT"
+
+[dependencies]
